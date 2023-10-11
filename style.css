@@ -1,0 +1,224 @@
+#sticky {
+    position: sticky;
+    top: 0;
+}
+
+#first-rectangle {
+    height: 250px;
+    width: 1200px;
+    background-color: rgb(255, 153, 51);
+}
+
+#second-rectangle {
+    background-color: white;
+    height: 250px;
+    width: 1200px;
+}
+
+#third-rectangle {
+    background-color: rgb(18, 136, 7);
+    height: 250px;
+    width: 1200px;
+}
+
+#first-circle {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 0, 136);
+    border-radius: 50%;
+    position: relative;
+    left: 500px;
+    top: 25px;
+}
+
+#second-circle {
+    height: 175px;
+    width: 175px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 12.5px;
+    left: 12.5px;
+}
+
+#third-circle {
+    height: 35px;
+    width: 35px;
+    background-color: rgb(0, 0, 136);
+    border-radius: 50%;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
+
+.rectangle {
+    background-color: rgb(0, 0, 136);
+    height: 70px;
+    width: 4px;
+    position: absolute;
+}
+
+#spoke1 {
+    left: 85.5px;
+}
+
+#spoke2 {
+    top: 0.1px;
+    left: 89.5px;
+    transform-origin: bottom;
+    transform: rotate(15deg);
+}
+
+#spoke3 {
+    top: 3px;
+    left: 94px;
+    transform-origin: bottom;
+    transform: rotate(30deg);
+}
+
+#spoke4 {
+    top: 6px;
+    left: 98px;
+    transform-origin: bottom;
+    transform: rotate(45deg);
+}
+
+#spoke5 {
+    top: 10px;
+    left: 100px;
+    transform-origin: bottom;
+    transform: rotate(60deg);
+}
+
+#spoke6 {
+    top: 14px;
+    left: 103px;
+    transform-origin: bottom;
+    transform: rotate(75deg);
+}
+
+#spoke7 {
+    top: 17.5px;
+    left: 103px;
+    transform-origin: bottom;
+    transform: rotate(90deg);
+}
+
+#spoke8 {
+    top: 23px;
+    left: 103px;
+    transform-origin: bottom;
+    transform: rotate(105deg);
+}
+
+#spoke9 {
+    top: 27px;
+    left: 100px;
+    transform-origin: bottom;
+    transform: rotate(120deg);
+}
+
+#spoke10 {
+    top: 30px;
+    left: 98px;
+    transform-origin: bottom;
+    transform: rotate(135deg);
+}
+
+#spoke11 {
+    top: 33px;
+    left: 94px;
+    transform-origin: bottom;
+    transform: rotate(150deg);
+}
+
+#spoke12 {
+    top: 35px;
+    left: 89.5px;
+    transform-origin: bottom;
+    transform: rotate(165deg);
+}
+
+#spoke13 {
+    top: 35px;
+    left: 85.5px;
+    transform-origin: bottom;
+    transform: rotate(180deg);
+}
+
+#spoke14 {
+    top: 35px;
+    left: 82px;
+    transform-origin: bottom;
+    transform: rotate(195deg);
+}
+
+#spoke15 {
+    top: 33px;
+    left: 78px;
+    transform-origin: bottom;
+    transform: rotate(210deg);
+}
+
+#spoke16 {
+    top: 30px;
+    left: 73px;
+    transform-origin: bottom;
+    transform: rotate(225deg);
+}
+
+#spoke17 {
+    top: 27px;
+    left: 71px;
+    transform-origin: bottom;
+    transform: rotate(240deg);
+}
+
+#spoke18 {
+    top: 23px;
+    left: 68px;
+    transform-origin: bottom;
+    transform: rotate(255deg);
+}
+
+#spoke19 {
+    top: 17.5px;
+    left: 68px;
+    transform-origin: bottom;
+    transform: rotate(270deg);
+}
+
+#spoke20 {
+    top: 14px;
+    left: 68px;
+    transform-origin: bottom;
+    transform: rotate(285deg);
+}
+
+#spoke21 {
+    top: 10px;
+    left: 70px;
+    transform-origin: bottom;
+    transform: rotate(300deg);
+}
+
+#spoke22 {
+    top: 6px;
+    left: 72px;
+    transform-origin: bottom;
+    transform: rotate(315deg);
+}
+
+#spoke23 {
+    top: 3px;
+    left: 76px;
+    transform-origin: bottom;
+    transform: rotate(330deg);
+}
+
+#spoke24 {
+    top: 0.1px;
+    left: 81px;
+    transform-origin: bottom;
+    transform: rotate(345deg);
+}
